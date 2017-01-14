@@ -1,0 +1,401 @@
+{
+    "5": {
+        "L_ORDERKEY": "60000",
+        "L_PARTKEY": "585",
+        "L_SUPPKEY": "16",
+        "L_LINENUMBER": "5",
+        "L_QUANTITY": "31",
+        "L_EXTENDEDPRICE": "46052.98",
+        "L_DISCOUNT": "0.00",
+        "L_TAX": "0.05",
+        "L_RETURNFLAG": "N",
+        "L_LINESTATUS": "O",
+        "L_SHIPDATE": "1995-08-06",
+        "L_COMMITDATE": "1995-07-18",
+        "L_RECEIPTDATE": "1995-08-19",
+        "L_SHIPINSTRUCT": "TAKE BACK RETURN",
+        "L_SHIPMODE": "TRUCK",
+        "L_COMMENT": "final, regular packag",
+        "partsupp": {
+            "PS_PARTKEY": "585",
+            "PS_SUPPKEY": "16",
+            "PS_AVAILQTY": "1636",
+            "PS_SUPPLYCOST": "751.59",
+            "PS_COMMENT": "fluffily express deposits along the furiously regular accounts haggle according to"
+        },
+        "order": {
+            "O_ORDERKEY": "60000",
+            "O_CUSTKEY": "1426",
+            "O_ORDERSTATUS": "P",
+            "O_TOTALPRICE": "299401.61",
+            "O_ORDERDATE": "1995-04-21",
+            "O_ORDER-PRIORITY": "2-HIGH",
+            "O_CLERK": "Clerk#000000194",
+            "O_SHIP-PRIORITY": "0",
+            "O_COMMENT": "quickly even dolphins around the carefully unusual",
+            "customer": {
+                "C_CUSTKEY": "1426",
+                "C_NAME": "Customer#000001426",
+                "C_ADDRESS": "d1Tyzg,0ArKPuBln8CDH, 1Xsukm2nXVl",
+                "C_NATIONKEY": "15",
+                "C_PHONE": "25-629-292-9022",
+                "C_ACCTBAL": "1965.38",
+                "C_MKTSEGMENT": "HOUSEHOLD",
+                "C_COMMENT": "slyly final pinto beans detect quickl",
+                "nation": {
+                    "N_NATIONKEY": "15",
+                    "N_NAME": "MOROCCO",
+                    "N_REGIONKEY": "0",
+                    "N_COMMENT": "ideas according to the fluffily final pinto beans sleep furiously",
+                    "region": {
+                        "R_REGIONKEY": "0",
+                        "R_NAME": "AFRICA",
+                        "R_COMMENT": "special Tiresias about the furiously even dolphins are furi"
+                    }
+                }
+            }
+        }
+    },
+    "3": {
+        "L_ORDERKEY": "60000",
+        "L_PARTKEY": "1057",
+        "L_SUPPKEY": "63",
+        "L_LINENUMBER": "3",
+        "L_QUANTITY": "45",
+        "L_EXTENDEDPRICE": "43112.25",
+        "L_DISCOUNT": "0.02",
+        "L_TAX": "0.02",
+        "L_RETURNFLAG": "R",
+        "L_LINESTATUS": "F",
+        "L_SHIPDATE": "1995-05-15",
+        "L_COMMITDATE": "1995-05-31",
+        "L_RECEIPTDATE": "1995-06-03",
+        "L_SHIPINSTRUCT": "COLLECT COD",
+        "L_SHIPMODE": "SHIP",
+        "L_COMMENT": "quickly even accounts nag carefully about",
+        "partsupp": {
+            "PS_PARTKEY": "1057",
+            "PS_SUPPKEY": "63",
+            "PS_AVAILQTY": "4992",
+            "PS_SUPPLYCOST": "565.89",
+            "PS_COMMENT": "close instructions haggle. blithely ironic deposits boost furiously. pinto beans promise slyly carefully regular theodolites."
+        },
+        "order": {
+            "O_ORDERKEY": "60000",
+            "O_CUSTKEY": "1426",
+            "O_ORDERSTATUS": "P",
+            "O_TOTALPRICE": "299401.61",
+            "O_ORDERDATE": "1995-04-21",
+            "O_ORDER-PRIORITY": "2-HIGH",
+            "O_CLERK": "Clerk#000000194",
+            "O_SHIP-PRIORITY": "0",
+            "O_COMMENT": "quickly even dolphins around the carefully unusual",
+            "customer": {
+                "C_CUSTKEY": "1426",
+                "C_NAME": "Customer#000001426",
+                "C_ADDRESS": "d1Tyzg,0ArKPuBln8CDH, 1Xsukm2nXVl",
+                "C_NATIONKEY": "15",
+                "C_PHONE": "25-629-292-9022",
+                "C_ACCTBAL": "1965.38",
+                "C_MKTSEGMENT": "HOUSEHOLD",
+                "C_COMMENT": "slyly final pinto beans detect quickl",
+                "nation": {
+                    "N_NATIONKEY": "15",
+                    "N_NAME": "MOROCCO",
+                    "N_REGIONKEY": "0",
+                    "N_COMMENT": "ideas according to the fluffily final pinto beans sleep furiously",
+                    "region": {
+                        "R_REGIONKEY": "0",
+                        "R_NAME": "AFRICA",
+                        "R_COMMENT": "special Tiresias about the furiously even dolphins are furi"
+                    }
+                }
+            }
+        }
+    },
+    "1": {
+        "L_ORDERKEY": "60000",
+        "L_PARTKEY": "292",
+        "L_SUPPKEY": "93",
+        "L_LINENUMBER": "1",
+        "L_QUANTITY": "45",
+        "L_EXTENDEDPRICE": "53653.05",
+        "L_DISCOUNT": "0.05",
+        "L_TAX": "0.06",
+        "L_RETURNFLAG": "N",
+        "L_LINESTATUS": "O",
+        "L_SHIPDATE": "1995-07-13",
+        "L_COMMITDATE": "1995-05-29",
+        "L_RECEIPTDATE": "1995-08-10",
+        "L_SHIPINSTRUCT": "TAKE BACK RETURN",
+        "L_SHIPMODE": "MAIL",
+        "L_COMMENT": "final pinto beans integrate quickly. qui",
+        "partsupp": {
+            "PS_PARTKEY": "292",
+            "PS_SUPPKEY": "93",
+            "PS_AVAILQTY": "8086",
+            "PS_SUPPLYCOST": "996.20",
+            "PS_COMMENT": "furiously ironic ideas boost always. requests through the blithely slow reques"
+        },
+        "order": {
+            "O_ORDERKEY": "60000",
+            "O_CUSTKEY": "1426",
+            "O_ORDERSTATUS": "P",
+            "O_TOTALPRICE": "299401.61",
+            "O_ORDERDATE": "1995-04-21",
+            "O_ORDER-PRIORITY": "2-HIGH",
+            "O_CLERK": "Clerk#000000194",
+            "O_SHIP-PRIORITY": "0",
+            "O_COMMENT": "quickly even dolphins around the carefully unusual",
+            "customer": {
+                "C_CUSTKEY": "1426",
+                "C_NAME": "Customer#000001426",
+                "C_ADDRESS": "d1Tyzg,0ArKPuBln8CDH, 1Xsukm2nXVl",
+                "C_NATIONKEY": "15",
+                "C_PHONE": "25-629-292-9022",
+                "C_ACCTBAL": "1965.38",
+                "C_MKTSEGMENT": "HOUSEHOLD",
+                "C_COMMENT": "slyly final pinto beans detect quickl",
+                "nation": {
+                    "N_NATIONKEY": "15",
+                    "N_NAME": "MOROCCO",
+                    "N_REGIONKEY": "0",
+                    "N_COMMENT": "ideas according to the fluffily final pinto beans sleep furiously",
+                    "region": {
+                        "R_REGIONKEY": "0",
+                        "R_NAME": "AFRICA",
+                        "R_COMMENT": "special Tiresias about the furiously even dolphins are furi"
+                    }
+                }
+            }
+        }
+    },
+    "4": {
+        "L_ORDERKEY": "60000",
+        "L_PARTKEY": "271",
+        "L_SUPPKEY": "53",
+        "L_LINENUMBER": "4",
+        "L_QUANTITY": "29",
+        "L_EXTENDEDPRICE": "33966.83",
+        "L_DISCOUNT": "0.02",
+        "L_TAX": "0.01",
+        "L_RETURNFLAG": "N",
+        "L_LINESTATUS": "O",
+        "L_SHIPDATE": "1995-07-25",
+        "L_COMMITDATE": "1995-06-07",
+        "L_RECEIPTDATE": "1995-08-17",
+        "L_SHIPINSTRUCT": "COLLECT COD",
+        "L_SHIPMODE": "SHIP",
+        "L_COMMENT": "final forges instead of the deposits",
+        "partsupp": {
+            "PS_PARTKEY": "271",
+            "PS_SUPPKEY": "53",
+            "PS_AVAILQTY": "8112",
+            "PS_SUPPLYCOST": "504.83",
+            "PS_COMMENT": "regular packages sleep slyly. quickly even foxes haggle ironic, express accounts. bold packages are daringly along the carefully sly deposits."
+        },
+        "order": {
+            "O_ORDERKEY": "60000",
+            "O_CUSTKEY": "1426",
+            "O_ORDERSTATUS": "P",
+            "O_TOTALPRICE": "299401.61",
+            "O_ORDERDATE": "1995-04-21",
+            "O_ORDER-PRIORITY": "2-HIGH",
+            "O_CLERK": "Clerk#000000194",
+            "O_SHIP-PRIORITY": "0",
+            "O_COMMENT": "quickly even dolphins around the carefully unusual",
+            "customer": {
+                "C_CUSTKEY": "1426",
+                "C_NAME": "Customer#000001426",
+                "C_ADDRESS": "d1Tyzg,0ArKPuBln8CDH, 1Xsukm2nXVl",
+                "C_NATIONKEY": "15",
+                "C_PHONE": "25-629-292-9022",
+                "C_ACCTBAL": "1965.38",
+                "C_MKTSEGMENT": "HOUSEHOLD",
+                "C_COMMENT": "slyly final pinto beans detect quickl",
+                "nation": {
+                    "N_NATIONKEY": "15",
+                    "N_NAME": "MOROCCO",
+                    "N_REGIONKEY": "0",
+                    "N_COMMENT": "ideas according to the fluffily final pinto beans sleep furiously",
+                    "region": {
+                        "R_REGIONKEY": "0",
+                        "R_NAME": "AFRICA",
+                        "R_COMMENT": "special Tiresias about the furiously even dolphins are furi"
+                    }
+                }
+            }
+        }
+    },
+    "6": {
+        "L_ORDERKEY": "60000",
+        "L_PARTKEY": "836",
+        "L_SUPPKEY": "3",
+        "L_LINENUMBER": "6",
+        "L_QUANTITY": "45",
+        "L_EXTENDEDPRICE": "78157.35",
+        "L_DISCOUNT": "0.04",
+        "L_TAX": "0.08",
+        "L_RETURNFLAG": "N",
+        "L_LINESTATUS": "O",
+        "L_SHIPDATE": "1995-07-23",
+        "L_COMMITDATE": "1995-07-17",
+        "L_RECEIPTDATE": "1995-07-24",
+        "L_SHIPINSTRUCT": "DELIVER IN PERSON",
+        "L_SHIPMODE": "TRUCK",
+        "L_COMMENT": "carefully final packages beyon",
+        "partsupp": {
+            "PS_PARTKEY": "836",
+            "PS_SUPPKEY": "3",
+            "PS_AVAILQTY": "7718",
+            "PS_SUPPLYCOST": "690.00",
+            "PS_COMMENT": "permanently regular deposits after the fluffily final theodolit"
+        },
+        "order": {
+            "O_ORDERKEY": "60000",
+            "O_CUSTKEY": "1426",
+            "O_ORDERSTATUS": "P",
+            "O_TOTALPRICE": "299401.61",
+            "O_ORDERDATE": "1995-04-21",
+            "O_ORDER-PRIORITY": "2-HIGH",
+            "O_CLERK": "Clerk#000000194",
+            "O_SHIP-PRIORITY": "0",
+            "O_COMMENT": "quickly even dolphins around the carefully unusual",
+            "customer": {
+                "C_CUSTKEY": "1426",
+                "C_NAME": "Customer#000001426",
+                "C_ADDRESS": "d1Tyzg,0ArKPuBln8CDH, 1Xsukm2nXVl",
+                "C_NATIONKEY": "15",
+                "C_PHONE": "25-629-292-9022",
+                "C_ACCTBAL": "1965.38",
+                "C_MKTSEGMENT": "HOUSEHOLD",
+                "C_COMMENT": "slyly final pinto beans detect quickl",
+                "nation": {
+                    "N_NATIONKEY": "15",
+                    "N_NAME": "MOROCCO",
+                    "N_REGIONKEY": "0",
+                    "N_COMMENT": "ideas according to the fluffily final pinto beans sleep furiously",
+                    "region": {
+                        "R_REGIONKEY": "0",
+                        "R_NAME": "AFRICA",
+                        "R_COMMENT": "special Tiresias about the furiously even dolphins are furi"
+                    }
+                }
+            }
+        }
+    },
+    "2": {
+        "L_ORDERKEY": "60000",
+        "L_PARTKEY": "1843",
+        "L_SUPPKEY": "44",
+        "L_LINENUMBER": "2",
+        "L_QUANTITY": "23",
+        "L_EXTENDEDPRICE": "40131.32",
+        "L_DISCOUNT": "0.05",
+        "L_TAX": "0.03",
+        "L_RETURNFLAG": "N",
+        "L_LINESTATUS": "O",
+        "L_SHIPDATE": "1995-08-09",
+        "L_COMMITDATE": "1995-06-08",
+        "L_RECEIPTDATE": "1995-08-23",
+        "L_SHIPINSTRUCT": "COLLECT COD",
+        "L_SHIPMODE": "FOB",
+        "L_COMMENT": "blithely ironic deposits cajole slyly",
+        "partsupp": {
+            "PS_PARTKEY": "1843",
+            "PS_SUPPKEY": "44",
+            "PS_AVAILQTY": "1955",
+            "PS_SUPPLYCOST": "158.29",
+            "PS_COMMENT": "regular, silent foxes wake. final ideas cajole closely slyly regular pinto beans"
+        },
+        "order": {
+            "O_ORDERKEY": "60000",
+            "O_CUSTKEY": "1426",
+            "O_ORDERSTATUS": "P",
+            "O_TOTALPRICE": "299401.61",
+            "O_ORDERDATE": "1995-04-21",
+            "O_ORDER-PRIORITY": "2-HIGH",
+            "O_CLERK": "Clerk#000000194",
+            "O_SHIP-PRIORITY": "0",
+            "O_COMMENT": "quickly even dolphins around the carefully unusual",
+            "customer": {
+                "C_CUSTKEY": "1426",
+                "C_NAME": "Customer#000001426",
+                "C_ADDRESS": "d1Tyzg,0ArKPuBln8CDH, 1Xsukm2nXVl",
+                "C_NATIONKEY": "15",
+                "C_PHONE": "25-629-292-9022",
+                "C_ACCTBAL": "1965.38",
+                "C_MKTSEGMENT": "HOUSEHOLD",
+                "C_COMMENT": "slyly final pinto beans detect quickl",
+                "nation": {
+                    "N_NATIONKEY": "15",
+                    "N_NAME": "MOROCCO",
+                    "N_REGIONKEY": "0",
+                    "N_COMMENT": "ideas according to the fluffily final pinto beans sleep furiously",
+                    "region": {
+                        "R_REGIONKEY": "0",
+                        "R_NAME": "AFRICA",
+                        "R_COMMENT": "special Tiresias about the furiously even dolphins are furi"
+                    }
+                }
+            }
+        }
+    },
+    "7": {
+        "L_ORDERKEY": "59973",
+        "L_PARTKEY": "306",
+        "L_SUPPKEY": "7",
+        "L_LINENUMBER": "7",
+        "L_QUANTITY": "35",
+        "L_EXTENDEDPRICE": "42220.50",
+        "L_DISCOUNT": "0.01",
+        "L_TAX": "0.00",
+        "L_RETURNFLAG": "N",
+        "L_LINESTATUS": "O",
+        "L_SHIPDATE": "1996-02-03",
+        "L_COMMITDATE": "1996-01-18",
+        "L_RECEIPTDATE": "1996-02-29",
+        "L_SHIPINSTRUCT": "COLLECT COD",
+        "L_SHIPMODE": "RAIL",
+        "L_COMMENT": "slyly ironic accounts cajole slyly. ironi",
+        "partsupp": {
+            "PS_PARTKEY": "306",
+            "PS_SUPPKEY": "7",
+            "PS_AVAILQTY": "3429",
+            "PS_SUPPLYCOST": "671.11",
+            "PS_COMMENT": "quickly pending dependencies cajole fluffily even accounts. carefully pe"
+        },
+        "order": {
+            "O_ORDERKEY": "59973",
+            "O_CUSTKEY": "229",
+            "O_ORDERSTATUS": "O",
+            "O_TOTALPRICE": "230718.14",
+            "O_ORDERDATE": "1995-11-16",
+            "O_ORDER-PRIORITY": "5-LOW",
+            "O_CLERK": "Clerk#000000891",
+            "O_SHIP-PRIORITY": "0",
+            "O_COMMENT": "slyly regular pinto beans integrate across the requests. furiously reg",
+            "customer": {
+                "C_CUSTKEY": "229",
+                "C_NAME": "Customer#000000229",
+                "C_ADDRESS": "Sbvjxgmwy4u6Ks1FH7lxo7toMmeU5dG",
+                "C_NATIONKEY": "1",
+                "C_PHONE": "11-243-298-4029",
+                "C_ACCTBAL": "7568.07",
+                "C_MKTSEGMENT": "BUILDING",
+                "C_COMMENT": "blithely express excuses haggle quic",
+                "nation": {
+                    "N_NATIONKEY": "1",
+                    "N_NAME": "ARGENTINA",
+                    "N_REGIONKEY": "1",
+                    "N_COMMENT": "idly final instructions cajole stealthily. regular instructions wake carefully blithely express accounts. fluffi",
+                    "region": {
+                        "R_REGIONKEY": "1",
+                        "R_NAME": "AMERICA",
+                        "R_COMMENT": "even, ironic theodolites according to the bold platelets wa"
+                    }
+                }
+            }
+        }
+    }
+}
